@@ -8,6 +8,13 @@
       "when": 1752113748465,
       "tag": "0000_wooden_naoko",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752202281399,
+      "tag": "0001_milky_smiling_tiger",
+      "breakpoints": true
     }
   ]
 }
